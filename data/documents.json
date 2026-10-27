@@ -1,0 +1,44 @@
+[
+    {
+        "id": "doc_001",
+        "title": "Python Programming",
+        "category": "Programming",
+        "text": "Python is a high-level, interpreted programming language widely used in software development, artificial intelligence, data science, and automation. Python supports object-oriented, procedural, and functional programming. It provides built-in data structures such as lists, dictionaries, tuples, and sets. Python is popular because of its simple syntax, readability, and large collection of libraries."
+    },
+    {
+        "id": "doc_002",
+        "title": "React.js Fundamentals",
+        "category": "Web Development",
+        "text": "React.js is a JavaScript library used to build interactive user interfaces. React applications are developed using reusable components. Components can manage data using state and receive information through props. React uses a virtual DOM approach to efficiently update the user interface. Developers commonly use JSX to write component structures."
+    },
+    {
+        "id": "doc_003",
+        "title": "SQL and Relational Databases",
+        "category": "Database",
+        "text": "SQL stands for Structured Query Language and is used to manage relational databases. Relational databases organize information into tables containing rows and columns. SQL provides commands such as SELECT, INSERT, UPDATE, and DELETE to retrieve and modify data. Primary keys uniquely identify records, while foreign keys establish relationships between tables. Database normalization helps reduce redundancy and improve data consistency."
+    },
+    {
+        "id": "doc_004",
+        "title": "Machine Learning Fundamentals",
+        "category": "Artificial Intelligence",
+        "text": "Machine learning is a branch of artificial intelligence that enables computer systems to learn patterns from data. Supervised learning uses labeled training examples, while unsupervised learning discovers patterns in unlabeled data. Common machine learning algorithms include linear regression, decision trees, and neural networks. Machine learning is used in recommendation systems, fraud detection, image recognition, and predictive analytics."
+    },
+    {
+        "id": "doc_005",
+        "title": "Cybersecurity Basics",
+        "category": "Cybersecurity",
+        "text": "Cybersecurity protects computer systems, networks, applications, and sensitive information from unauthorized access and cyberattacks. Common security threats include phishing, malware, ransomware, and SQL injection. Organizations use encryption, firewalls, access controls, and multi-factor authentication to improve security. Regular software updates and security monitoring help reduce vulnerabilities."
+    },
+    {
+        "id": "doc_006",
+        "title": "Computer Networking",
+        "category": "Networking",
+        "text": "Computer networking connects computers and devices so they can exchange information and share resources. Networks use communication protocols such as TCP/IP, HTTP, HTTPS, and DNS. IP addresses identify devices on networks, while routers forward data between different networks. Switches connect devices within local networks. Networking concepts include bandwidth, latency, packet switching, and network security."
+    },
+    {
+        "id": "96136086-17b7-4aa7-83a2-a5f060acff41",
+        "title": "Python in Artificial Intelligence",
+        "category": "Artificial Intelligence",
+        "text": "Python is widely used in artificial intelligence and machine learning. Developers use libraries such as TensorFlow, PyTorch, and scikit-learn to build intelligent applications, train machine learning models, and analyze datasets."
+    }
+]
